@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="PartBQuestion13" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Q2_PartB_Directory.PackagePartB.MainPolynomialPartB" />
+    <module name="MaShayla_Kendrick_HW1_Q2" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
