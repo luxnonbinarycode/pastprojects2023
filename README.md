@@ -30,7 +30,7 @@ ADVANCED WEB DESIGN ASSIGNMENTS:
 
 A. (UPDATED) DOM Modification Assignment MaShayla Kendrick - This assignment deals with manipulating the DOM to change the background color according to different time intervals.
 
-B. FINAL PROJECT FOLDER MASHAYLA KENDRICK - This is my final project for Advanced Web Design in which I did a website for a local theater. I did not do anything with the website beyond submitting it for my final.
+B. FINAL PROJECT FOLDER MASHAYLA KENDRICK - This is my final project for Advanced Web Design in which I did a website for a local theater. I did not do anything with the website beyond submitting it for my final. I reused aspects from an existing website to recreate the website for my assignment. The link to the existing website is https://www.rylander.org/.
 
 © 2024 MaShayla Kendrick. All rights reserved.
 
