@@ -43,6 +43,7 @@ These are the setup instructions for the Capstone project titled Verdure AI.
 Usernames in GitHub:
 War-Nugget is Sahil Patel. luxnonbinarycode is MaShayla Kendrick. feifei925 is Feifei Xie. 
 
+AI was used to create the comprehensive setup documentation for the Capstone project.
 
 © 2025 MaShayla Kendrick. All rights reserved.
 
