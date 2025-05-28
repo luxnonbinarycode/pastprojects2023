@@ -32,7 +32,12 @@ A. (UPDATED) DOM Modification Assignment MaShayla Kendrick - This assignment dea
 
 B. FINAL PROJECT FOLDER MASHAYLA KENDRICK - This is my final project for Advanced Web Design in which I did a website for a local theater. I did not do anything with the website beyond submitting it for my final. I reused aspects from an existing website to recreate the website for my assignment. The link to the existing website is https://www.rylander.org/.
 
-© 2024 MaShayla Kendrick. All rights reserved.
+Capstone - MaShayla Kendrick, Sahil Patel, and Feifei Xie:
+
+These are the files included in the Project Handoff for my Capstone project. I was the frontend developer, Sahil Patel, a classmate, was the backend developer, and Feifei Xie did more support work for the frontend and backend. Please unzip and follow the setup instructions for use of this AI plant care assistant, Verdure AI. 
+
+
+© 2025 MaShayla Kendrick. All rights reserved.
 
 Unauthorized copying of this software, via any medium, is strictly prohibited.
 
