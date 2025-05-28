@@ -36,6 +36,13 @@ Capstone - MaShayla Kendrick, Sahil Patel, and Feifei Xie:
 
 These are the files included in the Project Handoff for my Capstone project. I was the frontend developer, Sahil Patel, a classmate, was the backend developer, and Feifei Xie did more support work for the frontend and backend. Please unzip and follow the setup instructions for use of this AI plant care assistant, Verdure AI. 
 
+Capstone Setup Intsructions:
+
+These are the setup instructions for the Capstone project titled Verdure AI. 
+
+Usernames in GitHub:
+War-Nugget is Sahil Patel. luxnonbinarycode is MaShayla Kendrick. feifei925 is Feifei Xie. 
+
 
 © 2025 MaShayla Kendrick. All rights reserved.
 
