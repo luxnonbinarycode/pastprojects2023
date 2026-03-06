@@ -46,8 +46,3 @@ War-Nugget is Sahil Patel. luxnonbinarycode is MaShayla Kendrick. feifei925 is F
 Don't clone the repository mentioned in the setup instructions. Instead, use the zip code file provided. 
 
 AI was used to create the comprehensive setup documentation for the Capstone project.
-
-© 2025 MaShayla Kendrick. All rights reserved.
-
-Unauthorized copying of this software, via any medium, is strictly prohibited.
-
